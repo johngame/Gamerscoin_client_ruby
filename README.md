@@ -1,4 +1,6 @@
-# GamerscoinClient
+![Gamerscoin](https://raw.githubusercontent.com/gamers-coin/gamers-coinv3/01d1ca6d63b565ea46dcee3b6552b030d57d1187/src/qt/res/icons/bitcoin.png)![Gamerscoin](http://i.imgur.com/Nfb8DQx.png)
+
+# GamerscoinClient  [![tip for next commit](http://game4commit.gamers-coin.org/projects/25.svg)](http://game4commit.gamers-coin.org/projects/25)
 
 GamerscoinClient is a gem that makes it easy to work with gamerscoin in ruby.
 
